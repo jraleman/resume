@@ -1,12 +1,20 @@
 # Projects
 
+# P4N4
+- project: P4N4
+  url: https://p4n4.com
+  description: A command-line toolkit for building embedded Linux IoT servers and edge AI projects, streamlining provisioning, deployment, and on-device inference.
+
 # pasiero.ai
 - project: pasiero.ai
   url: https://pasiero.ai
-  description: A community-driven platform for creating personal AI agents with persistent memory and offline capabilities, respecting privacy and autonomy
+  description: A community-driven platform for creating personal AI agents with persistent memory and offline capabilities, respecting privacy and autonomy.
 
 # open-libft
 - project: open-libft
   url: https://github.com/jraleman/open-libft
-  description: An open source C library that incorporates useful functions, such as binary trees, linked lists, stacks, arrays, bit manipulation.
-  no_print: true
+  description: Reimplementation and extension of the C Standard Library, used in multiple academic software projects.
+
+# Mechatronics Station
+- project: Mechatronics Station
+  description: Pick-n-place operations programmed in MELFA-BASIC for a 6-DoF Mitsubishi robotic arm.
