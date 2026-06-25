@@ -8,7 +8,7 @@
 # pasiero.ai
 - project: pasiero.ai
   url: https://pasiero.ai
-  description: A community-driven platform for creating personal AI agents with persistent memory and offline capabilities, respecting privacy and autonomy.
+  description: An offline-first educational-therapeutic game for children, using on-device generative AI to personalize emotional and social-skill lessons while keeping all data private and local.
 
 # open-libft
 - project: open-libft
